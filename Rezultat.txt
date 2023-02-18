@@ -1,0 +1,13 @@
+Cetateanul Turmentat, ca sa urce 5 trepte urcand, de fiecare data, trepte din range-ul asta { 1 | 2 }, solutiile la dispozitie sunt urmatoarele:
+------------------------------------------------------------------------------
+|		 Solutii 		 | 		 Descriere Solutie
+|		 Nr. 1  		 | 		 1 1 1 1 1 
+|		 Nr. 2  		 | 		 1 1 1 2 
+|		 Nr. 3  		 | 		 1 1 2 1 
+|		 Nr. 4  		 | 		 1 2 1 1 
+|		 Nr. 5  		 | 		 1 2 2 
+|		 Nr. 6  		 | 		 2 1 1 1 
+|		 Nr. 7  		 | 		 2 1 2 
+|		 Nr. 8  		 | 		 2 2 1 
+------------------------------------------------------------------------------
+Numarul de moduri de a urca treptele este de: 8
